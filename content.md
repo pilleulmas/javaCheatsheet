@@ -41,7 +41,7 @@ Umbes kuu aega pärast eksamit tuleb üks ja ainus kordussooritus.
     - Kui < 50%, siis on kogu aine 0
 - 10 lisapunkti
     - 1p kommuunis küsimuse küsimise eest
-    - 1-10p käesoleva lehe täiendmaine
+    - 1-10p käesoleva lehe täiendamine
 
 ## Projekt
 
