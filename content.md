@@ -432,7 +432,7 @@ Näiteks kui soovime lapse vanust salvestada, siis sobib selleks int (integer, e
 
     int vanus = 5;
 
-Kui sooviksin selle lapse nime salvestada, kasutaksin tüüpi String, ehk sõne:
+Kui sooviksin selle lapse nime salvestada, kasutaksin tüüpi String, ehk sõna:
 
     String nimi = "Mikk";
 
