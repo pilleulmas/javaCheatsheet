@@ -172,6 +172,7 @@ Paljud materjalid on hoopis Pythoni kesksed. See on väga hea. Python on hea alg
 *   [Coursera](https://www.coursera.org/course/pythonlearn)
 *   [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 
+
 ### Interaktiivne
 
 *   [TurtleAcademy](https://turtleacademy.com/learn.php) õpetab lihtsaid asju eriti loomulikul moel.
@@ -180,6 +181,7 @@ Paljud materjalid on hoopis Pythoni kesksed. See on väga hea. Python on hea alg
 *   [CodeCombat](https://codecombat.com/)
 *   [Programming Basics](http://www.programmingbasics.org/en/)
 *	[CodingGame](https://www.codingame.com)
+*   [Harvardi CS50 kursus 2016/2017](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ### Tekstipõhine
 
